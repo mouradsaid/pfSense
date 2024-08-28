@@ -9,7 +9,6 @@ This project automates the backup of an XML file containing router settings (pfS
 1. mires_app.py - Main application script for handling the backup process.
 2. router_password.py - Manages router authentication details.
 
-Both scripts are compiled into .exe files and scheduled to run automatically.
 
 ## Installation
 
